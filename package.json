@@ -1,0 +1,15 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "a stupid 20 minutes twitter bot to post tweets to twitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
